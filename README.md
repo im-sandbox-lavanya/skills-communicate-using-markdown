@@ -1,5 +1,9 @@
-<header>
-
+# This is H1 header
+## This is H2 Header
+### This is H3 Header
+#### This is H4 Header
+##### This is H5 Header
+###### This is H6 Header
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
